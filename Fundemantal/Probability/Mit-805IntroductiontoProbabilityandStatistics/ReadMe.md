@@ -1,0 +1,3 @@
+# Mit8.05 
+
+[https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm]
